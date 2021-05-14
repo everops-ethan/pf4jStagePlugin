@@ -18,7 +18,7 @@ import { RandomWaitStageConfig, validate } from './RandomWaitStageConfig';
  */
 export const randomWaitStage: IStageTypeConfig = {
   key: 'randomWait',
-  label: `Random Wait`,
+  label: `Ethan's Random Wait`,
   description: 'Stage that waits a random amount of time up to the max input',
   component: RandomWaitStageConfig, // stage config
   executionDetailsSections: [RandomWaitStageExecutionDetails, ExecutionDetailsTasks],
