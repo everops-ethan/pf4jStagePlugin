@@ -54,4 +54,3 @@ export function validate(stageConfig: IStage) {
 
   return validator.validateForm();
 }
-
