@@ -6,6 +6,7 @@
     "releases": [
       {
         "version": "1.1.19",
+        "date": "2021-05-14T15:38:03.469168Z"
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "7ed1616eaa3e3292b8c4d9d86797a9003716e4dc93a6021667d4fc8410b85e516c993d156270273ad5ec6552be2916d8d321ff186755c009ee233cc808b06db6",
         "state": "RELEASE",
