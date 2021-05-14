@@ -1,6 +1,6 @@
 [
   {
-    "id": "Armory.RandomWaitPlugin",
+    "id": "Ethan.RandomWaitPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
     "provider": "https://github.com/everops-ethan",
     "releases": [
