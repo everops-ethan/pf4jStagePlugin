@@ -2,7 +2,7 @@
   {
     "id": "Armory.RandomWaitPlugin",
     "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-    "provider": "https://github.com/spinnaker-plugin-examples",
+    "provider": "https://github.com/everops-ethan",
     "releases": [
       {
         "version": "1.1.19",
