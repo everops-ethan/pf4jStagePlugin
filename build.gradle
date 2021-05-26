@@ -15,9 +15,9 @@ repositories {
 }
 
 spinnakerBundle {
-  pluginId = "Armory.RandomWaitPlugin"
+  pluginId = "Ethan.RandomWaitPlugin"
   description = "An example of a PF4J-based plugin that provides a custom pipeline stage."
-  provider = "https://github.com/spinnaker-plugin-examples"
+  provider = "https://github.com/everops-ethan"
   version = rootProject.version
 }
 
@@ -50,4 +50,3 @@ String normalizedVersion() {
     return normalized
   }
 }
-
