@@ -11,6 +11,14 @@
         "sha512sum": "7ed1616eaa3e3292b8c4d9d86797a9003716e4dc93a6021667d4fc8410b85e516c993d156270273ad5ec6552be2916d8d321ff186755c009ee233cc808b06db6",
         "state": "RELEASE",
         "url": "https://github.com/everops-ethan/pf4jStagePlugin/releases/download/v1.1.19/pf4jStagePlugin-v1.1.19.zip"
+      },
+      {
+        "version": "1.1.22",
+        "date": "2021-05-28T15:38:20.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "daba1b09d6296687bda1865573e4c1c2f10d9d2a5f075f9f3121bc9f3a1b4ae735b246f5846e56f83229f06fbee9913ee3046d28ff56b329fe71e8fd46befe1f",
+        "state": "RELEASE",
+        "url": "https://github.com/everops-ethan/pf4jStagePlugin/releases/download/v1.1.22/pf4jStagePlugin-v1.1.22.zip"
       }
     ]
   }
