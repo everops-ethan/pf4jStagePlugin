@@ -19,7 +19,7 @@ import { RandomWaitStageConfig, validate } from './RandomWaitStageConfig';
 export const randomWaitStage: IStageTypeConfig = {
   key: 'randomWait',
   label: `Ethan's Random Wait`,
-  description: 'Stage that waits a random amount of time up to the max input',
+  description: 'Queries DataDog api for smoke test results.',
   component: RandomWaitStageConfig, // stage config
   executionDetailsSections: [RandomWaitStageExecutionDetails, ExecutionDetailsTasks],
   validateFn: validate,
